@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btns {
+    position: absolute;
+    top: 216px;
+    left: 328px;
+    display: flex;
+}
+body{
+    background-color: pink;
+}
+.btn {
+    background: transparent;
+    border: none;
+    margin: 87;
+    font-size: 88px;
+    outline: none;
+    color: grey;
+background-color: rgb(240, 128, 214);
+}
+
+.btn i {
+   margin:30px;
+   padding: 30px;
+}
+
+.btn i:hover {
+    cursor: pointer;
+
+}
